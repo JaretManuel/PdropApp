@@ -19,6 +19,7 @@ gem 'omniauth'
 gem 'omniauth-twitter'
 gem 'omniauth-facebook'
 gem 'kaminari'
+gem 'twitter'
 
 # Gems used only for assets and not required
 # in production environments by default.
